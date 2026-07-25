@@ -1,0 +1,6 @@
+{
+  "name": "مِشْكَاة",
+  "description": "تطبيق إسلامي متكامل كصدقة جارية مع مواقيت الصلاة، البوصلة للقبلة، القرآن الكريم، الأذكار والسبحة الإلكترونية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
